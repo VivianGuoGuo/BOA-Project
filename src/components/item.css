@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+table {
+  border: 1px solid black;
+  margin-top: 20px;
+}
+td {
+  width: 200px;
+}
+.error {
+  color: red;
+}
